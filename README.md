@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: .gitbook/assets/event-horizon.png
 coverY: 0
 layout:
@@ -46,7 +45,7 @@ Caos é matéria, energia, força, tudo e todos. Expansão é responsável por c
 
 Como dito anteriormente, o universo é cheio de vida. Espécies, jogáveis ou não, vivem e circulam nos mais diferentes biomas e ambientes.
 
-Cada espécie jogável é apresentada através de módulos (Humanos podem ser encontrados em [Broken link](broken-reference "mention")). Nestes módulos você encontrará informações sobre as características mecânicas, comportamentais e sociais de cada espécie.
+Cada espécie jogável é apresentada através de módulos (Humanos podem ser encontrados em [broken-reference](broken-reference/ "mention")). Nestes módulos você encontrará informações sobre as características mecânicas, comportamentais e sociais de cada espécie.
 
 #### Sistema de Magia
 
@@ -62,7 +61,7 @@ Enquanto no [Broken link](broken-reference "mention") você encontra as mecânic
 
 Abaixo você encontra um planejamento do futuro de BTH, porém para este play teste, somente os **Humanos (A.N.E)** estão disponíveis para jogo.
 
-<table><thead><tr><th width="182">Espécie</th><th width="394">Características</th><th>Módulo</th></tr></thead><tbody><tr><td>Humanos (Ordinário)</td><td>Humanos ordinários vivendo sua vida no espaço em outra galáxia.</td><td>Força Galáctica</td></tr><tr><td>Humanos (A.N.E.)</td><td>Humanos que fazem uso da Armadura Nano Evolutiva.</td><td>Força Galáctica</td></tr><tr><td>Hiver</td><td>Humanos que abandonaram sua origem para viver em simbiose com o ambiente.</td><td>Simbiose</td></tr><tr><td>Symbion</td><td>Fungus que vive em simbionte com outras criaturas orgânicas.</td><td>Simbiose</td></tr><tr><td>Evoras</td><td>Inseto em constante evolução e mutação.</td><td>Evolução</td></tr><tr><td>Realshir</td><td>Elemental em busca de aperfeiçoamento de todos os elementos.</td><td>Evolução</td></tr><tr><td>Kitsuzen</td><td>Pequeno humanoid com aparência de raposa. Sua cultura lembra a asiática.</td><td>Arte e Corpo</td></tr><tr><td>Egon</td><td>Mistura entre lobo e lagarto que usa párticulas como areia, neve, etc.</td><td>Arte e Corpo</td></tr><tr><td>Sanguine</td><td>Humanos na Terra e que possuem poderes baseados na cor de seu sangue.</td><td>Nova Velha Terra</td></tr><tr><td>Cy_mera</td><td>Humanos que lembram Cyberpunks.</td><td>Nova Velha Terra</td></tr><tr><td>Mistique</td><td>Humanos que fazem uso de tatuagens mágicas baseadas em misticismos.</td><td>Nova Velha Terra</td></tr></tbody></table>
+<table><thead><tr><th width="110">Espécie</th><th width="470">Características</th><th>Módulo</th></tr></thead><tbody><tr><td>Humanos</td><td>Humanos que se espalharam pela galáxia. Usam equipamentos e tecnologias para sua expansão. Tecnologias como a Armadura Nano Evolutiva (A.N.E.)</td><td>Força Galáctica</td></tr><tr><td>Hiver</td><td>Humanos que abandonaram sua origem para viver em simbiose com o ambiente.</td><td>Simbiose</td></tr><tr><td>Symbion</td><td>Fungus que vive em simbionte com outras criaturas orgânicas.</td><td>Simbiose</td></tr><tr><td>Evoras</td><td>Inseto em constante evolução e mutação.</td><td>Evolução</td></tr><tr><td>Realshir</td><td>Elemental em busca de aperfeiçoamento de todos os elementos.</td><td>Evolução</td></tr><tr><td>Kitsuzen</td><td>Pequeno humanoid com aparência de raposa. Sua cultura lembra a asiática.</td><td>Arte e Corpo</td></tr><tr><td>Egon</td><td>Mistura entre lobo e lagarto que usa párticulas como areia, neve, etc.</td><td>Arte e Corpo</td></tr><tr><td>Sanguine</td><td>Humanos na Terra e que possuem poderes baseados na cor de seu sangue.</td><td>Nova Velha Terra</td></tr><tr><td>Cy_mera</td><td>Humanos que lembram Cyberpunks.</td><td>Nova Velha Terra</td></tr><tr><td>Mistique</td><td>Humanos que fazem uso de tatuagens mágicas baseadas em misticismos.</td><td>Nova Velha Terra</td></tr></tbody></table>
 
 ### Jogadores e Game Master (GM) <a href="#jogadores-e-game-master-gm" id="jogadores-e-game-master-gm"></a>
 
@@ -119,7 +118,7 @@ Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recurso
 
 Para jogar este jogo, você precisa das seguintes ferramentas:
 
-- Ficha de Personagem
-- 1 a 3 conjuntos de dados (d6 a d12)
-- Tokens para Ação, Reação e Terror
-- Cartas de Ações/Reações, Habilidades, Equipamentos e Companions
+* Ficha de Personagem
+* 1 a 3 conjuntos de dados (d6 a d12)
+* Tokens para Ação, Reação e Terror
+* Cartas de Ações/Reações, Habilidades, Equipamentos e Companions

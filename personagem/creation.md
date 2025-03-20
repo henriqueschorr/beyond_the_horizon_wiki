@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Criando um Personagem
 
 Antes de começar a jogar, você precisa criar seu personagem; para isso, siga os passos abaixo. Para cada informação recebida durante os passos, tome nota em sua Ficha de Personagem.
@@ -12,6 +26,7 @@ Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da
 * [Tamanho](../combat.md#tamanhos-de-criaturas): Minúsculo, Pequeno, Médio, Grande ou Gigante.
 * [Movimento](../character/movement.md): Representa o terreno que você pode se movimentar e distância de movimento.
 * [Conhecimento](../character/knowledge.md): Nível de conhecimento científico e receitas que pode produzir.
+* Reações: Quantidade de reações que você pode fazer por turno, sendo geralmente uma.
 
 ## Passo 2: Escolha seu Caminho
 
@@ -36,7 +51,9 @@ Para cada item acima, o seguinte pode ser informado:
 * Você pode receber um ou mais deles automaticamente
 * Uma lista pode ser provida onde você terá que escolher um ou mais entre eles
 
-O Caminho também pode alterar qualquer item recebido inicialmente por sua espécie.
+{% hint style="info" %}
+Um Caminho também pode alterar qualquer item recebido inicialmente por sua espécie.
+{% endhint %}
 
 ## Passo 3: Avance Atributos
 

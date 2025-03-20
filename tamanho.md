@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Tamanho
 
 Tamanho indica de forma genérica uma faixa de tamanho em que seu personagem se enquadra. O tamanho sempre é medido em sistema métrico. Esse indicador serve para ajudar na determinação de mecânicas como proteção, e indicar quantos Grids/Hexes a criatura ocupa em um mapa (caso houver).

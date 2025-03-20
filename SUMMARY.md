@@ -14,12 +14,21 @@
 * [Tamanho](tamanho.md)
 * [Movimento](movimento.md)
 * [Conhecimento](conhecimento.md)
-* [Ações, Reações](acoes-reacoes.md)
+* [Ações e Reações](acoes-e-reacoes.md)
 * [Habilidades](habilidades.md)
+* [Armas](armas.md)
+* [Armaduras](armaduras.md)
+* [Inventário e Equipamentos](inventario-e-equipamentos.md)
 
 ## Manuscrito
 
 * [Testes](manuscrito/checks.md)
+
+***
+
+* [Ações](acoes.md)
+* [Reações](reacoes.md)
+* [Combate](combate.md)
 
 ## Força Galáctica
 
