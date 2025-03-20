@@ -30,11 +30,11 @@
 * [Ações](acoes.md)
 * [Reações](reacoes.md)
 * [Combate](combate.md)
-* [Contadores](contadores.md)
 * [Dano](dano.md)
 * [Ferimentos e Morte](ferimentos-e-morte.md)
 * [Pânico e Traumas](panico-e-traumas.md)
 * [Condições](condicoes.md)
+* [Contadores](contadores.md)
 * [Crafting](crafting.md)
 * [Descanso](descanso.md)
 
