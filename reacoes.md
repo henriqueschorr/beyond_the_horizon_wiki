@@ -14,11 +14,11 @@ layout:
 
 # Reações
 
-Diferente das ações, que são livres, as reações têm uma lista predefinida do que pode ser realizado. Aprimoramentos, equipamentos e habilidades podem lhe conceder mais opções. Todas as reações geram um check de [Disputa](manuscrito/checks.md#disputa).
+Diferente das ações, que são livres, as reações têm uma lista predefinida do que pode ser realizado. Aprimoramentos, equipamentos e habilidades podem lhe conceder mais opções. Todas as reações geram um teste de [Disputa](manuscrito/checks.md#disputa).
 
 ### Esquivar <a href="#esquivar" id="esquivar"></a>
 
-Você tenta esquivar de um ataque inimigo realizando um check de Agilidade.
+Você tenta esquivar de um ataque inimigo realizando um teste de Agilidade.
 
 **Falha ou Falha Crítica:** Você não consegue esquivar e recebe o dano completo.\
 **Perde a Disputa:** Você não consegue esquivar e recebe o dano completo.\
@@ -26,7 +26,7 @@ Você tenta esquivar de um ataque inimigo realizando um check de Agilidade.
 
 ### Defender <a href="#defender" id="defender"></a>
 
-Você possui um escudo, arma ou equipamento com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste check depende do item usado para realizar a defesa.
+Você possui um escudo, arma ou equipamento com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste teste depende do item usado para realizar a defesa.
 
 Caso você esteja defendendo a si mesmo:
 
