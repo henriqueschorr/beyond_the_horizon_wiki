@@ -20,6 +20,10 @@ Toda e qualquer criatura, incluindo seu personagem, irá ter ao menos um tipo de
 
 Alguns sentidos podem ter subtipos, especializações.
 
+{% hint style="info" %}
+Quando uma espécie diz "Sentidos base", ela se refere aos cinco sentidos base de humanos: Audição, Olfato, Paladar, Tato e Visão.
+{% endhint %}
+
 ## Audição
 
 Você consegue ouvir sons.

@@ -40,4 +40,6 @@
 
 ## Força Galáctica
 
-* [Editor](forca-galactica/editor.md)
+* [Criando um Humano](forca-galactica/editor/README.md)
+  * [Ordinários](forca-galactica/editor/ordinarios.md)
+  * [A.N.E.](forca-galactica/editor/a.n.e..md)
