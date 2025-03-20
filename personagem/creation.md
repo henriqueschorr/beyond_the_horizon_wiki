@@ -40,7 +40,7 @@ Um caminho **sempre tem**:
 * Nome
 * Descrição
 * [Resiliência](../resiliencia.md): Limites de Dano, Feridas, Stress e Caos.
-* [Aprimoramentos](../aprimoramentos.md): Lista de aprimoramentos que você poderá escolher no [passo 4](creation.md#passo-4-escolha-aprimoramentos).
+* [Aprimoramentos](../aprimoramentos.md): Lista de aprimoramentos que você poderá escolher no passo #4.
 
 Um caminho **pode conter**:
 
@@ -74,7 +74,7 @@ Para mais informações sobre atributos, veja [aqui](attributes.md)
 {% step %}
 ## Escolha Aprimoramentos
 
-Quando você escolheu seu caminho no [passo #2](creation.md#passo-2-escolha-seu-caminho), você recebeu a informação de quais Aprimoramentos você tem acesso, sendo geralmente uma lista de 4 ou mais.
+Quando você escolheu seu caminho no passo #2, você recebeu a informação de quais Aprimoramentos você tem acesso, sendo geralmente uma lista de 4 ou mais.
 
 Neste passo você deve separar todas as cartas de aprimoramentos nível 1 relacionadas ao seu personagem, e então escolher duas.
 {% endstep %}
