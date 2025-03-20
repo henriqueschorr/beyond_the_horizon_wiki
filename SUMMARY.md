@@ -5,6 +5,7 @@
 ## Personagem
 
 * [Criando um Personagem](personagem/creation.md)
+* [Atributos](personagem/attributes.md)
 
 ## Manuscrito
 

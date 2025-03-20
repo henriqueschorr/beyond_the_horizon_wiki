@@ -6,6 +6,8 @@ Antes de começar a jogar, você precisa criar seu personagem; para isso, siga o
 
 Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](../../2_galactic_force/index.md). Ao escolher uma espécie, você recebe:
 
+- Atributos: Corpo, Agilidade, Controle, Sentidos, Cérebro e Social.
+- Sentidos: Visão, Audição, Olfato, etc.
 - [Tamanho](../combat.md#tamanhos-de-criaturas): Minúsculo, Pequeno, Médio, Grande ou Gigante.
 - [Movimento](../character/movement.md): Representa o terreno que você pode se movimentar e distância de movimento.
 - [Conhecimento](../character/knowledge.md): Nível de conhecimento científico e receitas que pode produzir.
@@ -14,18 +16,15 @@ Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da
 
 Toda espécie possui um número de caminhos que você pode escolher. Um caminho funciona quase como que um kit inicial, podendo representar classes, castas e outras diversas classificações.
 
-Um caminho <ins>sempre tem</ins>:
+Um caminho **sempre tem**:
 
 - Nome
 - Descrição
-- Atributos: Corpo, Agilidade, Controle, Sentidos, Cérebro e Social.
 - [Resiliência](./resilience.md): Limites de Dano, Feridas, Stress e Caos.
 - [Aprimoramentos](./progression.md): Lista de aprimoramentos que você poderá escolher no [passo 4](#passo-4-escolha-aprimoramentos).
 
-Um caminho <ins>pode conter</ins>:
+Um caminho **pode conter**:
 
-- [Conhecimento](./knowledge.md): Nível de conhecimento científico e receitas que pode produzir.
-- [Movimento](./movement.md): Você pode ter movimentos adicionais dependendo do caminho escolhido.
 - [Armas](./weapons.md): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
 - [Armaduras](./armor.md): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.
 - [Equipamentos](./inventory.md): Itens utilitários de uso geral.
@@ -36,6 +35,8 @@ Para cada item acima, o seguinte pode ser informado:
 
 - Você pode receber um ou mais deles automaticamente
 - Uma lista pode ser provida onde você terá que escolher um ou mais entre eles
+
+O Caminho também pode alterar qualquer item recebido inicialmente por sua espécie.
 
 ## Passo 3: Avance Atributos
 
