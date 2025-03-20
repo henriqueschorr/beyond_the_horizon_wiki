@@ -6,7 +6,7 @@ Conhecimento representa seu aprofundamento no estudo das ciências. Você pode t
 
 ### Áreas da Ciência <a href="#areas-da-ciencia" id="areas-da-ciencia"></a>
 
-<table data-view="cards"><thead><tr><th>Área</th><th>Exemplos de Ações</th></tr></thead><tbody><tr><td>Biologia</td><td>Identificar criatura, estudar anatomia, reconhecer flora/fauna, realizar procedimentos cirúrgicos, etc.</td></tr><tr><td>Culinária</td><td>Criar refeições e reconhecer alimentos na flora/fauna.</td></tr><tr><td>Engenharia</td><td>Hackear dispositivo, desativar bomba, etc.</td></tr><tr><td>Química</td><td>Reconhecer e analisar compostos químicos, etc.</td></tr></tbody></table>
+<table><thead><tr><th width="137">Área</th><th>Exemplos de Ações</th></tr></thead><tbody><tr><td>Biologia</td><td>Identificar criatura, estudar anatomia, reconhecer flora/fauna, realizar procedimentos cirúrgicos, etc.</td></tr><tr><td>Culinária</td><td>Criar refeições e reconhecer alimentos na flora/fauna.</td></tr><tr><td>Engenharia</td><td>Hackear dispositivo, desativar bomba, etc.</td></tr><tr><td>Química</td><td>Reconhecer e analisar compostos químicos, etc.</td></tr></tbody></table>
 
 ### Receitas <a href="#receitas" id="receitas"></a>
 
