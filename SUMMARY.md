@@ -1,6 +1,10 @@
 # Table of contents
 
-* [BEM VINDO](README.md)
+* [Bem Vindo](README.md)
+
+## Personagem
+
+* [Criando um Personagem](personagem/criando-um-personagem.md)
 
 ## Manuscrito
 

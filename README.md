@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# BEM VINDO
+# Bem Vindo
 
 Bem vindo a Beyond the Horizon (BTH), um framework design para Tabletop Role-Playing Games (TTRPGs).
 
@@ -26,9 +26,11 @@ Bem vindo a Beyond the Horizon (BTH), um framework design para Tabletop Role-Pla
 
 Esta página contém informações gerais sobre o jogo; como objetivos, breve explicação do universo, espécies jogáveis, temas abordados e ferramentas necessárias para o jogo.
 
+Em [Broken link](broken-reference "mention"), você encontra todas as informações de como criar um personagem e suas características.
+
 No [Broken link](broken-reference "mention"), você encontra informações sobre todas as mecânicas e regras bases para um jogo de BTH.
 
-Na [Broken link](broken-reference "mention"), a espécie jogável Humano é apresentada, explicando todas as mecânicas necessárias para você assumir a pele de um.
+Na [Broken link](broken-reference "mention"), a espécie jogável Humano é apresentada, explicando todas as mecânicas necessárias para você assumir o papel de um.
 
 ### Universo
 
