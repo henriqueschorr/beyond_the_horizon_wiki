@@ -14,7 +14,7 @@
 * [Tamanho](tamanho.md)
 * [Movimento](movimento.md)
 * [Conhecimento](conhecimento.md)
-* [Ações e Reações](acoes-e-reacoes.md)
+* [Ações e Reações](acoes-reacoes.md)
 * [Habilidades](habilidades.md)
 * [Armas](armas.md)
 * [Armaduras](armaduras.md)
