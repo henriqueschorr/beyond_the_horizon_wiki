@@ -10,6 +10,12 @@
 ***
 
 * [Resiliência](resiliencia.md)
+* [Sentidos](sentidos.md)
+* [Tamanho](tamanho.md)
+* [Movimento](movimento.md)
+* [Conhecimento](conhecimento.md)
+* [Ações, Reações](acoes-reacoes.md)
+* [Habilidades](habilidades.md)
 
 ## Manuscrito
 
