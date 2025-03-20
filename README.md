@@ -119,7 +119,7 @@ Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recurso
 
 Para jogar este jogo, você precisa das seguintes ferramentas:
 
-* Ficha de Personagem
-* 1 a 3 conjuntos de dados (d6 a d12)
-* Tokens para Ação, Reação e Terror
-* Cartas de Ações/Reações, Habilidades, Equipamentos e Companions
+- Ficha de Personagem
+- 1 a 3 conjuntos de dados (d6 a d12)
+- Tokens para Ação, Reação e Terror
+- Cartas de Ações/Reações, Habilidades, Equipamentos e Companions
