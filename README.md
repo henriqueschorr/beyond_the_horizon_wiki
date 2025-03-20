@@ -45,7 +45,7 @@ Caos é matéria, energia, força, tudo e todos. Expansão é responsável por c
 
 Como dito anteriormente, o universo é cheio de vida. Espécies, jogáveis ou não, vivem e circulam nos mais diferentes biomas e ambientes.
 
-Cada espécie jogável é apresentada através de módulos (Humanos podem ser encontrados em [broken-reference](broken-reference/ "mention")). Nestes módulos você encontrará informações sobre as características mecânicas, comportamentais e sociais de cada espécie.
+Cada espécie jogável é apresentada através de módulos (Humanos podem ser encontrados em [Broken link](broken-reference "mention")). Nestes módulos você encontrará informações sobre as características mecânicas, comportamentais e sociais de cada espécie.
 
 #### Sistema de Magia
 
@@ -76,7 +76,7 @@ O GM descreve os resultados e consequências das ações dos PCs, mas o que acon
 
 ### O Jogo <a href="#o-jogo" id="o-jogo"></a>
 
-O jogo é uma conversação entre os jogadores e o GM, um bate e volta de narrativa. O GM descreve o que está presente e acontece em volta dos PCs, os jogadores descrevem como desejam reagir, o GM narra as consequências e resultados. Se uma situação crítica - como um combate - aparece, é hora de começar a rolar dados - veja mais em [Checks](https://henriqueschorr.github.io/0_complete/1_manuscript_player/checks/).
+O jogo é uma conversação entre os jogadores e o GM, um bate e volta de narrativa. O GM descreve o que está presente e acontece em volta dos PCs, os jogadores descrevem como desejam reagir, o GM narra as consequências e resultados. Se uma situação crítica - como um combate - aparece, é hora de começar a rolar dados - veja mais em [Testes](manuscrito/checks.md).
 
 #### Modos de Jogo <a href="#modos-de-jogo" id="modos-de-jogo"></a>
 
