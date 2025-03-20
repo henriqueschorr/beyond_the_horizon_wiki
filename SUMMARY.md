@@ -19,6 +19,7 @@
 * [Armas](armas.md)
 * [Armaduras](armaduras.md)
 * [Inventário e Equipamentos](inventario-e-equipamentos.md)
+* [Aprimoramentos](aprimoramentos.md)
 
 ## Manuscrito
 

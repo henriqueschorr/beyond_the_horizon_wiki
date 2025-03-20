@@ -25,6 +25,8 @@ Limites de Dano são valores numéricos associados a Leve, Alto e Severo. Quando
 * **Dano Alto:** marque 2 AP/Feridas.
 * **Dano Severo:** marque 3 AP/Feridas.
 
+Para mais informações sobre como aplicar o dano, veja [aqui](dano.md#aplicando-dano).
+
 ## Armadura (AP) <a href="#armadura-ap" id="armadura-ap"></a>
 
 Armadura (AP) aparece quando você tem armadura, seja ela um equipamento ou natural. Seu tipo de armadura determina a quantidade de AP que você tem. Quando você recebe dano, caso tenha AP, você irá marcar de 1 a 3 AP, representando o quanto sua armadura foi danificada.

@@ -50,8 +50,8 @@ Ataques são ações realizadas com armas, itens e/ou habilidades, com o propós
    1. Mantenha os dados na "mesa", ou o resultado anotado, pois o dano é calculado a partir deles na maioria das vezes.
 3. Verifique o [Grau de Sucesso](manuscrito/checks.md#graus-de-sucesso).
 4. Caso o(s) alvo(s) usem uma reação, resolva a [Disputa](manuscrito/checks.md#disputa).
-5. Calcule o [Dano](https://henriqueschorr.github.io/0_complete/1_manuscript_player/damage/#calculando-dano) de acordo com o grau de sucesso.
-6. [Aplique o dano](https://henriqueschorr.github.io/0_complete/1_manuscript_player/damage/#aplicando-dano).
+5. Calcule o [Dano](dano.md#calculando-dano) de acordo com o grau de sucesso.
+6. [Aplique o dano](dano.md#aplicando-dano).
 
 Quando um ataque é feito contra mais de um alvo, você realiza apenas um teste para determinar se acerta os alvos ou não.
 
@@ -61,7 +61,7 @@ Quando você causar dano em mais de uma criatura, você aplica o mesmo dano em t
 
 #### **Passo 2: Aplique Efeitos**
 
-Alguns ataques têm efeitos adicionais devido a alguma [Propriedade](https://henriqueschorr.github.io/0_complete/1_manuscript_player/character/weapons/#propriedades-1) da arma ou outra característica. Também podem aplicar [Condições](https://henriqueschorr.github.io/0_complete/1_manuscript_player/conditions/), estas que só são aplicadas caso o ataque tenha causado dano, a não ser que indicado o contrário. Resolva todos os efeitos e condições causados pelo ataque neste passo.
+Alguns ataques têm efeitos adicionais devido a alguma [Propriedade](armas.md#propriedades_1) da arma ou outra característica. Também podem aplicar [Condições](condicoes.md), estas que só são aplicadas caso o ataque tenha causado dano, a não ser que indicado o contrário. Resolva todos os efeitos e condições causados pelo ataque neste passo.
 
 ### Crafting
 

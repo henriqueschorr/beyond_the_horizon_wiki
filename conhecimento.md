@@ -26,7 +26,7 @@ Conhecimento representa seu aprofundamento no estudo das ciências. Você pode t
 
 ## Receitas <a href="#receitas" id="receitas"></a>
 
-Receitas são usadas para realizar [Crafting](https://henriqueschorr.github.io/0_complete/1_manuscript_player/crafting/). Você pode saber receitas de cor ou ter anotado em algum lugar. As receitas variam entre espécies e certos caminhos podem lhe dar acesso a receitas exclusivas. Receitas possuem níveis, seu Cérebro determina o nível que você tem acesso.
+Receitas são usadas para realizar [Crafting](crafting.md). Você pode saber receitas de cor ou ter anotado em algum lugar. As receitas variam entre espécies e certos caminhos podem lhe dar acesso a receitas exclusivas. Receitas possuem níveis, seu Cérebro determina o nível que você tem acesso.
 
 <table><thead><tr><th width="116">Cérebro</th><th width="154">Nível de Receita</th></tr></thead><tbody><tr><td>d6 e d8</td><td>Simples</td></tr><tr><td>d10</td><td>Avançada</td></tr><tr><td>d12</td><td>Especial</td></tr></tbody></table>
 

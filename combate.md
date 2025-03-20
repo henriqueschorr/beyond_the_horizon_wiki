@@ -46,7 +46,7 @@ Caso não haja surpresa, alguém deve rolar 1d6 para decidir a ordem de turnos.&
 Considere os seguintes pontos durante o turno da Equipe de jogadores:
 
 * Todos jogadores recuperam todas suas reações.
-* Todos os [Countdown de Turno](https://henriqueschorr.github.io/0_complete/1_manuscript_player/combat/#countdown-turno) presentes nos PCs diminuem em 1.
+* Todos os [Contadores de Turno](contadores.md#countdown-turno) presentes nos PCs diminuem em 1.
 * Não há ordem de iniciativa, qualquer jogador pode executar ações na ordem em que quiser.
 * Não há limites de ações que cada jogador pode executar antes de precisar passar sua "vez", jogadores podem realizar quantos e quaisquer ações desejarem.
 * Para cada ação que um jogador realizar durante este turno, um token de ação deve ser pago ao GM.&#x20;
@@ -64,7 +64,7 @@ Os resultados dos checks dos jogadores influenciam o decorrer do jogo:
 Considere os seguintes pontos durante o turno do GM:
 
 * Todos os NPCs recuperam todas suas reações.
-* Todos os [Countdown de Turno](https://henriqueschorr.github.io/0_complete/1_manuscript_player/combat/#countdown-turno) presentes nos NPCs diminuem em um.
+* Todos os contadores de turno presentes nos NPCs diminuem em um.
 * GM pode **ativar** criaturas gastando tokens de ação.&#x20;
   * 1 token de ação = 1 criatura ativa.
 * GM pode converter tokens de ação em tokens de terror.&#x20;
@@ -127,7 +127,7 @@ Tamanho indica de forma genérica uma faixa de tamanho em que uma criatura se en
 
 Alcance e distâncias sempre serão referenciadas considerando as seções de um mapa.
 
-<table><thead><tr><th width="147">Alcance/Distância</th><th width="369">Seções</th><th>Metros</th><th>Grids/Hexes</th></tr></thead><tbody><tr><td>Adjacente</td><td>Mesma Seção. Alvo deve estar diretamente ao seu lado.</td><td>2m ou menos</td><td>1</td></tr><tr><td>Perto</td><td>Mesma Seção ou 1 Seção adjacente a sua.</td><td>2m - 8m</td><td>2 - 8</td></tr><tr><td>Longe</td><td>Até 2 Seções.</td><td>2m - 12m</td><td>2 - 12</td></tr><tr><td>Muito Longe</td><td>Até 4 Seções.</td><td>2m - 24m</td><td>2 - 24</td></tr></tbody></table>
+<table><thead><tr><th width="147">Alcance/Distância</th><th width="344">Seções</th><th>Metros</th><th>Grids/Hexes</th></tr></thead><tbody><tr><td>Adjacente</td><td>Mesma Seção. Alvo deve estar diretamente ao seu lado.</td><td>2m ou menos</td><td>1</td></tr><tr><td>Perto</td><td>Mesma Seção ou 1 Seção adjacente a sua.</td><td>2m - 8m</td><td>2 - 8</td></tr><tr><td>Longe</td><td>Até 2 Seções.</td><td>2m - 12m</td><td>2 - 12</td></tr><tr><td>Muito Longe</td><td>Até 4 Seções.</td><td>2m - 24m</td><td>2 - 24</td></tr></tbody></table>
 
 ## Alvos <a href="#alvos" id="alvos"></a>
 

@@ -26,7 +26,7 @@ Quando o contador chega a 0 ou a ultima parte do relógio é marcada, o evento a
 
 ### Contador de Turno <a href="#countdown-turno" id="countdown-turno"></a>
 
-Alguns efeitos, como [Condições](https://henriqueschorr.github.io/0_complete/1_manuscript_player/conditions.md), têm valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de contador, o tempo de efeito diminui sempre que o turno do lado afetado começa. Por exemplo, se uma criatura do GM aplica a condição Debilitado 2 em seu personagem, o contador diminui em 1 sempre que o turno da equipe começa.
+Alguns efeitos, como [Condições](condicoes.md), têm valores fixos atrelados (exemplo Debilitado 2). Nesse tipo de contador, o tempo de efeito diminui sempre que o turno do lado afetado começa. Por exemplo, se uma criatura do GM aplica a condição Debilitado 2 em seu personagem, o contador diminui em 1 sempre que o turno da equipe começa.
 
 ### Contador Dinâmico <a href="#countdown-dinamico" id="countdown-dinamico"></a>
 

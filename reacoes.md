@@ -26,7 +26,7 @@ Você tenta esquivar de um ataque inimigo realizando um teste de Agilidade.
 
 ### Defender <a href="#defender" id="defender"></a>
 
-Você possui um escudo, arma ou equipamento com a propriedade **Defender**, e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste teste depende do item usado para realizar a defesa.
+Você possui um escudo, arma ou equipamento com a propriedade [Defender](armas.md#defender), e defende a si mesmo ou alguma criatura adjacente. O Atributo utilizado neste teste depende do item usado para realizar a defesa.
 
 Caso você esteja defendendo a si mesmo:
 

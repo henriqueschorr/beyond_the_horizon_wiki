@@ -24,4 +24,4 @@ Você encontra detalhes sobre algumas ações bases [aqui](acoes.md#grupos-de-ac
 
 ## Reações <a href="#reacoes" id="reacoes"></a>
 
-Diferente das ações, Reações são bem definidas. As bases são: Esquivar, Defender e Resistir. Mais detalhes podem ser encontrados no capítulo do combate - [aqui](https://henriqueschorr.github.io/0_complete/1_manuscript_player/reactions/).
+Diferente das ações, Reações são bem definidas. As bases são: Esquivar, Defender e Resistir. Mais detalhes podem ser [aqui](reacoes.md).

@@ -28,7 +28,7 @@ Armas do tipo equipamento, que não possuam a propriedade Natural, terão indica
 Indica qual [Atributo](personagem/attributes.md) você irá utilizar para realizar ações com a arma (Exemplo: Controle).
 
 **Alcance**\
-Indica o [Alcance](https://henriqueschorr.github.io/0_complete/1_manuscript_player/combat/#alcance--dist%C3%A2ncia) máximo que você pode atacar com a arma (Exemplo: Longe).
+Indica o [Alcance](combate.md#alcance-distancia) máximo que você pode atacar com a arma (Exemplo: Longe).
 
 **Propriedades**\
 Indica as [#propriedades\_1](armas.md#propriedades_1 "mention"), se alguma, ligada a arma.

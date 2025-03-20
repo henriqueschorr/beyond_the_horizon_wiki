@@ -20,7 +20,7 @@ Algumas espécies, como os Humanos, podem usar e carregar itens - objetos - cons
 
 Equipamentos pode ser itens de uso geral ou bem definidos como [armas ](armas.md)e [armaduras](armaduras.md). Você encontra outros tipos de items [aqui](inventario-e-equipamentos.md#tipos-de-equipamentos). Eles variam entre espécies.
 
-O uso de Equipamentos como ação segue certas regras que podem ser vistas [aqui](https://henriqueschorr.github.io/0_complete/1_manuscript_player/actions/#interagir-com-objetos).
+O uso de Equipamentos como ação segue certas regras que podem ser vistas [aqui](acoes.md#interagir-com-objetos).
 
 Algumas espécies, como o Evoras, não podem usar itens ou equipamentos, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso; por exemplo, não tente carregar um carro no seu bolso; ou ainda, 35 armas diferentes na sua mochila.
 

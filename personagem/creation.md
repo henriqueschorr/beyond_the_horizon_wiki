@@ -18,15 +18,15 @@ Antes de começar a jogar, você precisa criar seu personagem; para isso, siga o
 
 ## Passo 1: Escolha sua Espécie
 
-Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](../2_galactic_force/index.md). Ao escolher uma espécie, você recebe:
+Atualmente, você tem acesso somente a espécie Humano, encontrada no módulo da [Força Galáctica](broken-reference). Ao escolher uma espécie, você recebe:
 
-* Atributos: Corpo, Agilidade, Controle, Sentidos, Cérebro e Social.
-* [Resiliência](resilience.md): Limites de Dano, Feridas, Stress e Caos.
-* Sentidos: Visão, Audição, Olfato, etc.
-* [Tamanho](../combat.md#tamanhos-de-criaturas): Minúsculo, Pequeno, Médio, Grande ou Gigante.
-* [Movimento](../character/movement.md): Representa o terreno que você pode se movimentar e distância de movimento.
-* [Conhecimento](../character/knowledge.md): Nível de conhecimento científico e receitas que pode produzir.
-* Reações: Quantidade de reações que você pode fazer por turno, sendo geralmente uma.
+* [Atributos](attributes.md): Corpo, Agilidade, Controle, Sentidos, Cérebro e Social.
+* [Resiliência](../resiliencia.md): Limites de Dano, Feridas, Stress e Caos.
+* [Sentidos](../sentidos.md): Visão, Audição, Olfato, etc.
+* [Tamanho](../tamanho.md): Minúsculo, Pequeno, Médio, Grande ou Gigante.
+* [Movimento](../movimento.md): Representa o terreno que você pode se movimentar e distância de movimento.
+* [Conhecimento](../conhecimento.md): Nível de conhecimento científico e receitas que pode produzir.
+* [Reações](../reacoes.md): Quantidade de reações que você pode fazer por turno, sendo geralmente uma.
 
 ## Passo 2: Escolha seu Caminho
 
@@ -36,15 +36,15 @@ Um caminho **sempre tem**:
 
 * Nome
 * Descrição
-* [Aprimoramentos](progression.md): Lista de aprimoramentos que você poderá escolher no [passo 4](creation.md#passo-4-escolha-aprimoramentos).
+* [Aprimoramentos](../aprimoramentos.md): Lista de aprimoramentos que você poderá escolher no [passo 4](creation.md#passo-4-escolha-aprimoramentos).
 
 Um caminho **pode conter**:
 
-* [Armas](weapons.md): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
-* [Armaduras](armor.md): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.
-* [Equipamentos](inventory.md): Itens utilitários de uso geral.
-* [Ações & Reações](moves.md): Ações e Reações especiais - bases e exclusivas - que você pode realizar.
-* [Habilidades](abilities.md): Passivas, Engatilhadas ou Ativas.
+* [Armas](../armas.md): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
+* [Armaduras](../armaduras.md): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.
+* [Equipamentos](../inventario-e-equipamentos.md): Itens utilitários de uso geral.
+* [Ações & Reações](../acoes-reacoes.md): Ações e Reações especiais - bases e exclusivas - que você pode realizar.
+* [Habilidades](../habilidades.md): Passivas, Engatilhadas ou Ativas.
 
 Para cada item acima, o seguinte pode ser informado:
 
