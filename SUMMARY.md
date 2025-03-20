@@ -1,17 +1,17 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [BEM VINDO](README.md)
 
-## Getting Started
+## Manuscrito
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart](manuscrito/quickstart.md)
+* [Publish your docs](manuscrito/publish-your-docs.md)
 
-## Basics
+## Força Galáctica
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Editor](forca-galactica/editor.md)
+* [Markdown](forca-galactica/markdown.md)
+* [Images & media](forca-galactica/images-and-media.md)
+* [Interactive blocks](forca-galactica/interactive-blocks.md)
+* [OpenAPI](forca-galactica/openapi.md)
+* [Integrations](forca-galactica/integrations.md)
