@@ -104,7 +104,7 @@ O Caos e algumas espécies trazem uma pitada de fantasia ao mundo de BTH, fazend
 
 #### Terror <a href="#terror" id="terror"></a>
 
-No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Não importa se você seja um simples Humano ou um predador nato de aparência assustadora como um Evoras, sempre há algum perigo a espreita, esperando o momento mais oportuno para acabar com sua vida; ou sanidade. Com a mecânica de Stress e Pânico isso se torna mais do que claro - veja mais em [Stress e Pânico](https://henriqueschorr.github.io/0_complete/1_manuscript_player/character/resilience/#stress).
+No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Não importa se você seja um simples Humano ou um predador nato de aparência assustadora como um Evoras, sempre há algum perigo a espreita, esperando o momento mais oportuno para acabar com sua vida; ou sanidade. Com a mecânica de [Stress ](resiliencia.md#stress)e [Pânico ](panico-e-traumas.md)isso se torna mais do que claro.
 
 #### Ação <a href="#acao" id="acao"></a>
 
