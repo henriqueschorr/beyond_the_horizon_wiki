@@ -38,19 +38,9 @@ Abaixo você encontra as consequências - narrativamente e mecanicamente - que v
 
 ### Probabilidades <a href="#probabilidades" id="probabilidades"></a>
 
-| Dado | Falha (1-3) | Sucesso Parcial (4-7) | Sucesso (8-11) | Sucesso Crítico (12) |
-| ---- | ----------- | --------------------- | -------------- | -------------------- |
-| d6   | 50%         | 50%                   | 0%             | 0%                   |
-| d8   | 37.50%      | 50%                   | 12.50%         | 0%                   |
-| d10  | 30%         | 40%                   | 30%            | 0%                   |
-| d12  | 25%         | 33.33%                | 33.33%         | 8.33%                |
+<table><thead><tr><th width="79">Dado</th><th width="103">Falha (1-3)</th><th>Sucesso Parcial (4-7)</th><th>Sucesso (8-11)</th><th>Sucesso Crítico (12)</th></tr></thead><tbody><tr><td>d6</td><td>50%</td><td>50%</td><td>0%</td><td>0%</td></tr><tr><td>d8</td><td>37.50%</td><td>50%</td><td>12.50%</td><td>0%</td></tr><tr><td>d10</td><td>30%</td><td>40%</td><td>30%</td><td>0%</td></tr><tr><td>d12</td><td>25%</td><td>33.33%</td><td>33.33%</td><td>8.33%</td></tr></tbody></table>
 
-| Die | Total Success Probability |
-| --- | ------------------------- |
-| d6  | 50%                       |
-| d8  | 62.50%                    |
-| d10 | 70%                       |
-| d12 | 74.99%                    |
+<table><thead><tr><th width="90">Dado</th><th width="226">Probabilidade total de sucesso</th></tr></thead><tbody><tr><td>d6</td><td>50%</td></tr><tr><td>d8</td><td>62.50%</td></tr><tr><td>d10</td><td>70%</td></tr><tr><td>d12</td><td>74.99%</td></tr></tbody></table>
 
 ## Modificadores <a href="#modificadores" id="modificadores"></a>
 
