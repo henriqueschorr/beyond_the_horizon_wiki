@@ -40,6 +40,16 @@
 
 ## Força Galáctica
 
-* [Criando um Humano](forca-galactica/editor/README.md)
-  * [Ordinários](forca-galactica/editor/ordinarios.md)
-  * [A.N.E.](forca-galactica/editor/a.n.e..md)
+* [Criando um Humano](forca-galactica/editor.md)
+
+***
+
+* [CaminhosTable](caminhostable.md)
+* [Caminhos](caminhos.md)
+* [Armas](armas-1.md)
+* [Armaduras](armaduras-1.md)
+* [Equipamentos](equipamentos.md)
+* [Receitas](receitas.md)
+* [Descanso](descanso-1.md)
+* [Ferimentos Críticos](ferimentos-criticos.md)
+* [Pânico e Traumas](panico-e-traumas-1.md)
