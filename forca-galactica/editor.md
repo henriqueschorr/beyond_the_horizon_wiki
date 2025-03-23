@@ -43,6 +43,7 @@ Independente de escolher humanos ordinários ou A.N.E., as características abai
 
 ### Características Gerais
 
+* **Propriedades:** Humanoide, Orgânico.
 * **Atributos:** Todos d6.
 * **Sentidos:** Base.
 * **Tamanho:** Médio.
