@@ -12,21 +12,21 @@ layout:
     visible: true
 ---
 
-# Inventário e Equipamentos
+# Inventário e Itens
 
 ## Inventário
 
-Algumas espécies, como os Humanos, podem usar e carregar itens - objetos - consigo, durante a aventura. Todo e qualquer objeto em uso, ou no inventário do seu personagem, é considerado um equipamento.&#x20;
+Algumas espécies, como os Humanos, podem usar e carregar itens - objetos - consigo, durante a aventura. Todo e qualquer objeto em uso, ou no inventário do seu personagem, é considerado um Item.&#x20;
 
-Equipamentos pode ser itens de uso geral ou bem definidos como [armas ](armas.md)e [armaduras](armaduras.md). Você encontra outros tipos de items [aqui](inventario-e-equipamentos.md#tipos-de-equipamentos). Eles variam entre espécies.
+Itens podem ser de uso geral ou bem definidos como [armas ](armas.md)e [armaduras](armaduras.md) (estes definidos geralmente vão em uma parte específica de sua ficha.&#x20;
 
-O uso de Equipamentos como ação segue certas regras que podem ser vistas [aqui](acoes.md#interagir-com-objetos).
+O uso de Items como ação segue certas regras que podem ser vistas [aqui](acoes.md#interagir-com-objetos).
 
-Algumas espécies, como o Evoras, não podem usar itens ou equipamentos, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso; por exemplo, não tente carregar um carro no seu bolso; ou ainda, 35 armas diferentes na sua mochila.
+Algumas espécies podem não usar itens, portanto não terão inventário. Não há limite mecanicamente para o número de itens que você pode carregar, mas tente usar o bom senso; por exemplo, não tente carregar um carro no seu bolso; ou ainda, 35 armas diferentes na sua mochila.
 
-## Tipos de Equipamentos <a href="#tipos-de-equipamentos" id="tipos-de-equipamentos"></a>
+## Tipos de Itens <a href="#tipos-de-equipamentos" id="tipos-de-equipamentos"></a>
 
-Equipamentos podem ter tipos, indicando formas diferentes de uso. São eles abaixo:
+Itens podem ter tipos, indicando formas diferentes de uso. São eles abaixo:
 
 ### Compostos Químicos <a href="#compostos-quimicos" id="compostos-quimicos"></a>
 
@@ -54,9 +54,9 @@ Munição mais difícil de produzir ou encontrar, geralmente causam efeitos ou d
 
 Munição rara ou super especializada. Muito mais difícil de produzir ou encontrar. Este tipo de munição terá contagem.
 
-## Equipamentos com Variações Semelhantes <a href="#equipamentos-com-variacoes-semelhantes" id="equipamentos-com-variacoes-semelhantes"></a>
+## Itens com Variações Semelhantes <a href="#equipamentos-com-variacoes-semelhantes" id="equipamentos-com-variacoes-semelhantes"></a>
 
-Quando você adquirir um equipamento ou item - seja através de espólio, recompensas ou crafting - que pode haver diversas variações semelhantes - por exemplo granadas, armadilhas, compostos químicos e munições - você não precisa anotar seu tipo específico no inventário. Você pode anotar apenas seu tipo genérico e decidir seu tipo específico somente no momento do seu uso.
+Quando você adquirir um item - seja através de espólio, recompensas ou crafting - que pode haver diversas variações semelhantes - por exemplo granadas, armadilhas, compostos químicos e munições - você não precisa anotar seu tipo específico no inventário. Você pode anotar apenas seu tipo genérico (junto com seu nível de receita) e decidir seu tipo específico somente no momento do seu uso.
 
 **Exemplo:**
 

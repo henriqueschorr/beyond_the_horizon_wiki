@@ -18,8 +18,8 @@
 * [Habilidades](habilidades.md)
 * [Armas](armas.md)
 * [Armaduras](armaduras.md)
-* [Inventário e Equipamentos](inventario-e-equipamentos.md)
-* [Aprimoramentos](aprimoramentos.md)
+* [Inventário e Itens](inventario-e-itens.md)
+* [Progressão](progressao.md)
 
 ## Manuscrito
 

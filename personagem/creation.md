@@ -40,13 +40,13 @@ Um caminho **sempre tem**:
 * Nome
 * Descrição
 * [Resiliência](../resiliencia.md): Limites de Dano, Feridas, Stress e Caos.
-* [Aprimoramentos](../aprimoramentos.md): Lista de aprimoramentos que você poderá escolher no passo #4.
+* [Aprimoramentos](../progressao.md): Lista de aprimoramentos que você poderá escolher no passo #4.
 
 Um caminho **pode conter**:
 
 * [Armas](../armas.md): Equipamentos ou Armas Naturais que podem ser usadas ofensivamente.
 * [Armaduras](../armaduras.md): Equipamentos ou Armaduras Naturais que podem ser usadas defensivamente.
-* [Equipamentos](../inventario-e-equipamentos.md): Itens utilitários de uso geral.
+* [Equipamentos](../inventario-e-itens.md): Itens utilitários de uso geral.
 * [Ações & Reações](../acoes-reacoes.md): Ações e Reações especiais - bases e exclusivas - que você pode realizar.
 * [Habilidades](../habilidades.md): Passivas, Engatilhadas ou Ativas.
 
