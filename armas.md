@@ -14,61 +14,17 @@ layout:
 
 # Armas
 
-Armas são equipamentos ou qualquer parte do seu corpo que pode ser usado para causar dano e/ou efeitos negativos em outra criatura. Você quase sempre terá ao menos uma arma. A quantidade e os tipos de armas variam entre espécies, mas todas têm as seguintes características em comuns.
+{% tabs %}
+{% tab title="Ordinário" %}
 
-## Características <a href="#caracteristicas" id="caracteristicas"></a>
+{% endtab %}
 
-**Nome**\
-Indica o nome da arma (Exemplo: Rifle de Precisão).
+{% tab title="A.N.E." %}
+<table><thead><tr><th width="194">Nome (Mãos)</th><th>Atributo e Alcance</th><th>Dano</th><th>Propriedades</th><th>Ações</th></tr></thead><tbody><tr><td>Arco Caótico (2)</td><td>Controle - Longe</td><td>Físico</td><td>Silenciosa</td><td>Retração, Montagem</td></tr><tr><td>Coilgun (2)</td><td>Controle - Perto</td><td>Energia (Elétrico)</td><td>Recarregar</td><td>Carregar</td></tr><tr><td>Lâmina Fragmento (1)</td><td>Agilidade - Adjacente</td><td>Físico</td><td>Rápida, Segura, Sileciosa</td><td>Retração, Montagem</td></tr><tr><td>Multigun (2)</td><td>Controle - Perto</td><td>Físico</td><td>Recarregar</td><td>Crafting, Lançar Dardo</td></tr><tr><td>Omnigun (2)</td><td>Controle - Variado</td><td>Físico</td><td>Recarregar</td><td>Modo</td></tr><tr><td>Pistola Cinética (1)</td><td>Controle - Perto</td><td>Físico</td><td>Recarregar</td><td>Modo</td></tr></tbody></table>
 
-**Mãos**\
-Armas do tipo equipamento, que não possuam a propriedade Natural, terão indicado se é necessário usar uma ou duas mãos. Caso você esteja usando uma arma que ocupe todas as suas mãos, você não pode usar outra que necessite de mãos.
+\
 
-**Atributo**\
-Indica qual [Atributo](personagem/attributes.md) você irá utilizar para realizar ações com a arma (Exemplo: Controle).
+{% endtab %}
+{% endtabs %}
 
-**Alcance**\
-Indica o [Alcance](combate.md#alcance-distancia) máximo que você pode atacar com a arma (Exemplo: Longe).
-
-**Propriedades**\
-Indica as [#propriedades\_1](armas.md#propriedades_1 "mention"), se alguma, ligada a arma.
-
-**Ações/Reações**\
-Armas podem lhe dar acesso a ações ou reações exclusivas que podem ser usados com ela.
-
-**Habilidades**\
-Armas podem lhe dar acesso a habilidades exclusivas que podem ser usadas com ela.
-
-## Propriedades <a href="#propriedades_1" id="propriedades_1"></a>
-
-### **Defender**
-
-Você pode usar a Reação Defender com esta arma.
-
-### **Impacto**
-
-Quando você causar dano durante um ataque com esta arma, você pode empurrar o alvo até distância 4m para trás.
-
-### **Natural**
-
-Indica que a arma é de origem natural, ou seja, parte do seu corpo. Uma arma natural também é considerada Segura.
-
-### **Prender**
-
-Quando você causar dano durante um ataque com esta arma, você pode causar a condição Preso no alvo.
-
-### **Rápida**
-
-Criaturas alvos de ataques com esta arma não podem realizar reações.
-
-### **Recarregar**
-
-Caso você role 1 no dado principal durante o teste para atacar com esta arma, você deve recarregá-la. Você não pode usar a arma até Contador 2. Você pode marcar 1 Stress para diminuir o Contador em 1, apenas uma vez.
-
-### **Silenciosa**
-
-Indica que a arma é silenciosa ao atirar seus projéteis, não alertando inimigos com seu barulho.
-
-### **Segura**
-
-Você não pode sofrer a condição Desarmado com esta arma.
+\

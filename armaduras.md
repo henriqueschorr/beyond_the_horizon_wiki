@@ -14,24 +14,20 @@ layout:
 
 # Armaduras
 
-Armaduras são equipamentos ou qualquer parte do seu corpo que serve como proteção. Armaduras lhe concederão AP. Em geral, você poderá usar apenas uma armadura por vez. Assim como armas, as armaduras variam entre espécies, mas todas têm as seguintes características em comuns.
+{% tabs %}
+{% tab title="Ordinário" %}
 
-## Características <a href="#caracteristicas" id="caracteristicas"></a>
+{% endtab %}
 
-**Nome**\
-Indica o nome da armadura (Exemplo: A.N.E. Leve).
+{% tab title="A.N.E." %}
+Armadura Nano Evolutivo, ou A.N.E, é a tecnologia militar mais avançada disponível para os humanos. Uma armadura feita inteiramente por nano-robôs autosuficientes e controlados por uma inteligência artificial básica. A.N.E. é capaz de evoluir junto com seu personagem, disponibilizando novos recursos, benefícios e habilidades. A.N.E. se estende aos seus armas e equipamentos, melhorando-os e dando funções extras a eles. Seus nano-robôs são capaz de auto-reprodução e regeneração.
 
-**Carga**\
-Indica a carga da armadura, podendo ser Leve, Normal, Meio-Pesada ou Pesada.
+### **Características**
 
-**AP**\
-Indica quantos APs a armadura lhe concede (Exemplo: 3 AP).
+**Nome:** A.N.E.\
+**Carga:** Leve/Média/Média-Pesada/Pesada\
+**AP:** 2/3/4/6\
+**Equipamentos:** 1x Comunicador, 1x Lanterna, 1x Monitor de Informações, Botas Magnéticas.
+{% endtab %}
+{% endtabs %}
 
-**Equipamentos**\
-Armaduras podem ter equipamentos e/ou dispositivos integrados, dando-lhe acesso a eles.
-
-**Ações/Reações**\
-Armaduras podem lhe dar acesso a ações ou reações exclusivas que podem ser usados com ela.
-
-**Habilidades**\
-Armaduras podem lhe dar acesso a habilidades exclusivas que podem ser usados com ela.
