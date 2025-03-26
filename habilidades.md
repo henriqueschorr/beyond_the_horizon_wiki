@@ -14,7 +14,7 @@ layout:
 
 # Habilidades
 
-Habilidades são efeitos, características ou ações especiais específicas para determinadas espécies e caminhos. Geralmente terão custos de Caos. Podem ser: Passivas, Engatilhas e Ativas.
+Habilidades são efeitos, características ou ações especiais específicas para determinadas espécies e caminhos. Geralmente terão custos de Caos. Podem ser: Engatilhas e Ativas.
 
 ## Apresentação
 

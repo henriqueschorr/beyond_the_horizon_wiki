@@ -20,8 +20,8 @@ Você pode tentar executar qualquer ação que vier a sua mente. Não há uma li
 
 **Exemplos de Ações:** Mover, Correr, Saltar, Nadar, Hackear dispositivo, Desativar armadilha, Calcular, Atacar, Usar Equipamento, Usar Habilidade, Empurrar, Puxar, Prender, Negociar, Ameaçar, etc.
 
-Você encontra detalhes sobre algumas ações bases [aqui](acoes.md#grupos-de-acoes).
+Você encontra mais detalhes sobre ações [aqui](acoes.md#grupos-de-acoes).
 
 ## Reações <a href="#reacoes" id="reacoes"></a>
 
-Diferente das ações, Reações são bem definidas. As bases são: Esquivar, Defender e Resistir. Mais detalhes podem ser [aqui](reacoes.md).
+Diferente das ações, Reações são bem definidas. As bases são: Esquivar, Defender e Resistir. Mais detalhes podem ser vistos [aqui](reacoes.md).

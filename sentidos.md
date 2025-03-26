@@ -16,7 +16,7 @@ layout:
 
 ## Visão Geral
 
-Toda e qualquer criatura, incluindo seu personagem, irá ter ao menos um tipo de sentido. Sempre que um sentido se referir ao "sentido base" ou não houver muitos detalhes, assume o mesmo nível de um humano normal.&#x20;
+Toda e qualquer criatura, incluindo seu personagem, irá ter ao menos um tipo de sentido. Sempre que um sentido se referir a "sentidos básicos" ou não houver muitos detalhes, assume o mesmo nível de um humano normal.&#x20;
 
 Alguns sentidos podem ter subtipos, especializações.
 
@@ -67,7 +67,3 @@ Você consegue enxergar através de estruturas sólidas.
 ### Térmica
 
 Você consegue enxergar formas por sua temperatura, mesmo estando atrás de estruturas sólidas.
-
-###
-
-##
