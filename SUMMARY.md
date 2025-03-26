@@ -21,29 +21,26 @@
 ## Manuscrito
 
 * [Testes](manuscrito/checks.md)
-
-***
-
-* [Ações](acoes.md)
-* [Reações](reacoes.md)
-* [Combate](combate.md)
-* [Dano](dano.md)
-* [Ferimentos e Morte](ferimentos-e-morte.md)
-* [Pânico e Traumas](panico-e-traumas.md)
-* [Condições](condicoes.md)
-* [Contadores](contadores.md)
-* [Crafting](crafting.md)
-* [Descanso](descanso.md)
+* [Ações](manuscrito/acoes.md)
+* [Reações](manuscrito/reacoes.md)
+* [Combate](manuscrito/combate.md)
+* [Dano](manuscrito/dano.md)
+* [Ferimentos e Morte](manuscrito/ferimentos-e-morte.md)
+* [Pânico e Traumas](manuscrito/panico-e-traumas.md)
+* [Condições](manuscrito/condicoes.md)
+* [Contadores](manuscrito/contadores.md)
+* [Crafting](manuscrito/crafting.md)
+* [Descanso](manuscrito/descanso.md)
 
 ## Força Galáctica
 
 * [Criando um Humano](forca-galactica/creation.md)
 * [CaminhosTable](forca-galactica/caminhostable.md)
 * [Caminhos](forca-galactica/caminhos.md)
-* [Armas](forca-galactica/armas-1.md)
+* [Armas](forca-galactica/armas.md)
 * [Armaduras](forca-galactica/armaduras.md)
 * [Equipamentos](forca-galactica/equipamentos.md)
 * [Receitas](forca-galactica/receitas.md)
-* [Descanso](forca-galactica/descanso-1.md)
+* [Descanso](forca-galactica/descanso.md)
 * [Ferimentos Críticos](forca-galactica/ferimentos-criticos.md)
 * [Pânico e Traumas](forca-galactica/panico-e-traumas.md)
