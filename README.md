@@ -19,7 +19,26 @@ layout:
 
 # Bem Vindo
 
-Bem vindo a Beyond the Horizon (BTH), um framework design para Tabletop Role-Playing Games (TTRPGs).
+Bem vindo a Beyond the Horizon (BTH), um Tabletop Role-Playing Games (TTRPGs) sobre ficção científica (sci-fi), ação e terror.
+
+### O Que Esperar
+
+Em BTH, você vai encontrar as seguintes temáticas:
+
+#### Ficção Científica
+
+O jogo se passa em um universo um tanto baseado no nosso, porém, claramente sua espécie não está sozinha.\
+Espere espécies de criaturas jogáveis e não-jogavéis com conceitos malucos, ideias provocantes, tecnologia e eventos que mais parecem magia.
+
+#### Ação e Aventura
+
+O universo está repleto de enigmas e coisas interessantes para ser encontrados, resolvidos, descobertos.\
+Mas lembre-se que caminhar por aí, em planetas e ambientes desconhecidos, não é algo fácil.\
+BTH é repleto de ação, seja você fugindo de um vulcão em erupção ou tentando se defender de uma criatura grotesca tentando arrancar e comer seu coração.
+
+#### Tensão e Terror
+
+No espaço o perigo é constante, e com o perigo vem o terror. Seja um fenômeno inexplicável ou uma criatura hostil e horrenda, os PCs estarão sempre a mercê do medo. Não importa se você seja um simples Humano ou um predador nato de aparência assustadora como um Evoras, sempre há algum perigo a espreita, esperando o momento mais oportuno para acabar com sua vida; ou sanidade. Com a mecânica de Stress e Pânico isso se torna mais do que claro.
 
 ### Como ler esta Wiki?
 
