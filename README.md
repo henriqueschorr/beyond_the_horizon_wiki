@@ -27,7 +27,8 @@ Em BTH, você vai encontrar as seguintes temáticas:
 
 #### Ficção Científica
 
-O jogo se passa em um universo um tanto baseado no nosso, porém, claramente sua espécie não está sozinha.\
+O jogo se passa em um universo um tanto baseado no nosso, porém, claramente sua espécie não está sozinha.
+\
 Espere espécies de criaturas jogáveis e não-jogavéis com conceitos malucos, ideias provocantes, tecnologia e eventos que mais parecem magia.
 
 #### Ação e Aventura
@@ -105,7 +106,7 @@ One Shot é uma aventura de uma sessão apenas, com duração de 3 a 5 horas de 
 
 Aventura é uma campanha planejada para rodar entre 12 a 15 sessões, onde os PCs alcançarão nível máximo: 5. Este modo envolve uma trama bem mais complexa, com diversos finais possíveis. Também valoriza o desenvolvimento de personagem.
 
-### Temas <a href="#temas" id="temas"></a>
+<!-- ### Temas <a href="#temas" id="temas"></a>
 
 Os temas variam entre os módulos e as espécies, alguns podendo focar mais em ficção científica (sci-fi) e terror, enquanto outros podem focar mais em exploração e fantasia. Abaixo você encontra os temas chaves que podem ser encontrados em abundância pelas aventuras.
 
@@ -131,7 +132,7 @@ Uma aventura não seria uma boa aventura sem ação. BTH é repleto de ação. S
 
 #### Estratégia <a href="#estrategia" id="estrategia"></a>
 
-Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recursos são poucos e os perigos muitos. Você deve pensar bastante sobre seu posicionamento no mapa. Deve observar com atenção seus inimigos e, administrar bem seus recursos e ações se quiser sobreviver no mundo - e combate - de BTH.
+Assim como o espaço, o jogo não pensa duas vezes antes de te punir. Os recursos são poucos e os perigos muitos. Você deve pensar bastante sobre seu posicionamento no mapa. Deve observar com atenção seus inimigos e, administrar bem seus recursos e ações se quiser sobreviver no mundo - e combate - de BTH. -->
 
 ### Ferramentas de Jogo <a href="#ferramentas-de-jogo" id="ferramentas-de-jogo"></a>
 
