@@ -4,19 +4,19 @@
 
 ## Personagem
 
-* [Criando um Personagem](personagem/creation.md)
-* [Atributos](personagem/attributes.md)
-* [Resiliência](personagem/resiliencia.md)
-* [Sentidos](personagem/sentidos.md)
-* [Tamanho](personagem/tamanho.md)
-* [Movimento](personagem/movimento.md)
-* [Conhecimento](personagem/conhecimento.md)
-* [Ações e Reações](personagem/acoes-reacoes.md)
-* [Habilidades](personagem/habilidades.md)
-* [Armas](personagem/armas.md)
-* [Armaduras](personagem/armaduras.md)
-* [Inventário e Itens](personagem/inventario-e-itens.md)
-* [Progressão](personagem/progressao.md)
+* [Construção de Personagem](character/creation.md)
+* [Atributos](character/attributes.md)
+* [Resiliência](character/resilience.md)
+* [Sentidos](character/senses.md)
+* [Tamanho](character/size.md)
+* [Movimento](character/movement.md)
+* [Conhecimento](character/knowledge.md)
+* [Ações e Reações](character/actions.md)
+* [Habilidades](character/abilities.md)
+* [Armas](character/weapons.md)
+* [Armaduras](character/armors.md)
+* [Inventário e Itens](character/inventory.md)
+* [Progressão](character/progression.md)
 
 ## Manuscrito
 

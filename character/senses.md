@@ -16,12 +16,12 @@ layout:
 
 ## Visão Geral
 
-Toda e qualquer criatura, incluindo seu personagem, irá ter ao menos um tipo de sentido. Sempre que um sentido se referir a "sentidos básicos" ou não houver muitos detalhes, assume o mesmo nível de um humano normal.&#x20;
+Toda e qualquer criatura, incluindo seu personagem, irá ter ao menos um tipo de sentido. 
 
 Alguns sentidos podem ter subtipos, especializações.
 
 {% hint style="info" %}
-Quando uma espécie diz "Sentidos base", ela se refere aos cinco sentidos base de humanos: Audição, Olfato, Paladar, Tato e Visão.
+Quando uma espécie diz "Sentidos básico", ela se refere aos cinco sentidos básicos de humanos: Audição, Olfato, Paladar, Tato e Visão.
 {% endhint %}
 
 ## Audição
