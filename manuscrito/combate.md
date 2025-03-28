@@ -12,6 +12,11 @@ layout:
     visible: true
 ---
 
+
+<!-- Caso você esteja em [Combate](), toda vez que você mover, deve entregar um Token de Ação ao GM, a não ser que o movimento comece e termine na mesma seção. -->
+
+<!-- ### Ações (Tokens de Ação) -->
+
 # Combate
 
 Correr ou lutar? Eis a questão. Quando você escolhe pela última opção, a cena vira um combate. Durante o combate, todas as criaturas envolvidas estarão tentando causar dano o suficiente para vencer seu adversário, seja matando-o, fazendo-o se render ou fugir.

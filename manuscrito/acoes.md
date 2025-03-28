@@ -14,18 +14,25 @@ layout:
 
 # Ações
 
-As ações em Beyond the Horizon são completamente livres, mas claro, use o bom senso. Em geral, você deve dizer qual ação deseja realizar e seu GM irá dizer se é possível e, qual teste - se necessário - deve ser realizado.&#x20;
+As ações em Beyond the Horizon são completamente livres, mas claro, use o bom senso. Em geral, você deve dizer qual ação deseja realizar e seu GM irá dizer se é possível e, qual teste - se necessário - deve ser realizado.
 
 #### **Sucesso Automático**
 
 Toda ação realizada tem sucesso automático, a não ser que:
 
-* Um teste seja requisitado e você falhe no teste&#x20;
-* O alvo use uma Reação
-* Para isso, veja o capítulo de [Disputa](manuscrito/checks.md#disputa)
-* A descrição da habilidade/ação/equipamento diga o contrário
+* GM pede por um Teste; o resultado então definido por tal
+* O alvo use uma Reação; veja o capítulo de [Disputa](manuscrito/checks.md#disputa)
+* Algum outro fator diga o contrário
 
-## Grupos de Ações
+Para toda ação, o GM determina como ela ocorre e que tipo de teste, se houver, deve ser realizado. Abaixo você encontra algumas regras que devem ser seguidas para algumas ações específicas.
+
+## Mover
+
+Você pode mover baseado no seu [Movimento](). O tipo (aéreo, aquático, subterrâneo, terrestres, vertical) indica por qual local no cenário você pode mover, a distância indica quantos metros ou seções você pode se deslocar em uma ação.
+
+## Atacar
+
+<!-- ## Grupos de Ações
 
 Apesar das ações serem livres, abaixo você encontra uma lista de grupos de ações bases que basicamente todo personagem poderá executar; juntamente com algumas regras e considerações. Lembre-se que isto é apenas um guia, seu grupo e o GM possuem a palavra final quanto a diversão.
 
@@ -132,4 +139,4 @@ Empurrar, derrubar, puxar, desarmar e outros diversos tipos de golpes contam com
 
 ### Usar Habilidade <a href="#usar-habilidade" id="usar-habilidade"></a>
 
-Algumas habilidades ativas podem ser ações. Siga as instruções na habilidade para executá-la. Você deve "pagar" um token de ação ao GM para cada custo de ação que a habilidade tem.
+Algumas habilidades ativas podem ser ações. Siga as instruções na habilidade para executá-la. Você deve "pagar" um token de ação ao GM para cada custo de ação que a habilidade tem. -->

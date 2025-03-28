@@ -43,19 +43,31 @@ Além disso, para cada área da ciência, você também terá um Grau de Conheci
   </tbody>
 </table>
 
-## Nível de Receita
+## Aprendizado
 
-Uma vez tendo perícia em uma área da ciência, você pode começar a realizar [Sínteses](), que nada mais é que a ação de construir, modificar, aprimorar, concertar ou desmontar algo. Exemplos para cada área são:
+Uma vez que você tem perícia em uma área da ciência, você pode começar a realizar [Sínteses](), que nada mais é que a ação de construir, modificar, aprimorar, concertar ou desmontar algo, seja um objeto ou criatura. Exemplos para cada área são:
 
 - **Biologia:** Criar kits médicos, fazer cirurgias, atendimento médico especializado, aprimorar partes do corpo.
-- **Culinária:** Fazer comidas e refeições especiais.  
+- **Culinária:** Fazer comidas e refeições especiais.
 - **Engenharia:** Criar itens, aprimorar armas, armaduras, construtos.
 - **Quimica:** Criar compostos químicos como drogas e venenos.
 
-Receitas são separadas em níveis: Simples, Avançado e Especial.
+Sínteses são separadas em três níveis: Simples, Avançado e Especial. Seu nível de aprendizado determina o nível de síntese que você pode realizar.
 
+Exemplo:
 
+_Remella tem perícia nas áreas de biologia e engenharia._  
+_Remella tem aprendizado avançado._  
+_Remella pode realizar sínteses de biologia e engenharia de níveis simples e avançado._
 
+Seu nível de aprendizado é determinado por seu Cérebro:
+
+| Cérebro | Aprendizado |
+| ------- | ----------- |
+| d6      | -           |
+| d8      | Simples     |
+| d10     | Avançado    |
+| d12     | Especial    |
 
 <!-- ## Receitas
 
