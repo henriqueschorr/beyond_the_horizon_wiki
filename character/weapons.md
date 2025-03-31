@@ -18,28 +18,28 @@ Armas são equipamentos ou qualquer parte do seu corpo que pode ser usado para c
 
 ## Características <a href="#caracteristicas" id="caracteristicas"></a>
 
-**Nome**\
+**Nome**
 Indica o nome da arma (Exemplo: Rifle de Precisão).
 
-**Mãos**\
+**Mãos**
 Armas do tipo equipamento, que não possuam a propriedade Natural, terão indicado se é necessário usar uma ou duas mãos. Caso você esteja usando uma arma que ocupe todas as suas mãos, você não pode usar outra que necessite de mãos.
 
-**Atributo**\
+**Atributo**
 Indica qual [Atributo](personagem/attributes.md) você irá utilizar para realizar ações com a arma (Exemplo: Controle).
 
-**Alcance**\
+**Alcance**
 Indica o [Alcance](combate.md#alcance-distancia) máximo que você pode atacar com a arma (Exemplo: Longe).
 
-**Propriedades**\
+**Propriedades**
 Indica as [#propriedades\_1](armas.md#propriedades_1 "mention"), se alguma, ligada a arma.
 
-**Ações/Reações**\
+**Ações/Reações**
 Armas podem lhe dar acesso a ações ou reações exclusivas que podem ser usados com ela.
 
-**Habilidades**\
+**Habilidades**
 Armas podem lhe dar acesso a habilidades exclusivas que podem ser usadas com ela.
 
-## Propriedades <a href="#propriedades_1" id="propriedades_1"></a>
+## Propriedades
 
 ### **Defender**
 

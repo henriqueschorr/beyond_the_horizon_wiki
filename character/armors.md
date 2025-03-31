@@ -16,22 +16,22 @@ layout:
 
 Armaduras são equipamentos ou qualquer parte do seu corpo que serve como proteção. Armaduras lhe concederão AP. Em geral, você poderá usar apenas uma armadura por vez. Assim como armas, as armaduras variam entre espécies, mas todas têm as seguintes características em comuns.
 
-## Características <a href="#caracteristicas" id="caracteristicas"></a>
+## Características
 
-**Nome**\
+**Nome**
 Indica o nome da armadura (Exemplo: A.N.E. Leve).
 
-**Carga**\
+**Carga**
 Indica a carga da armadura, podendo ser Leve, Normal, Meio-Pesada ou Pesada.
 
-**AP**\
+**AP**
 Indica quantos APs a armadura lhe concede (Exemplo: 3 AP).
 
-**Equipamentos**\
+**Equipamentos**
 Armaduras podem ter equipamentos e/ou dispositivos integrados, dando-lhe acesso a eles.
 
-**Ações/Reações**\
+**Ações/Reações**
 Armaduras podem lhe dar acesso a ações ou reações exclusivas que podem ser usados com ela.
 
-**Habilidades**\
+**Habilidades**
 Armaduras podem lhe dar acesso a habilidades exclusivas que podem ser usados com ela.
